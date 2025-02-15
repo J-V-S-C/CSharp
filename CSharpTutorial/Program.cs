@@ -1,8 +1,10 @@
 ﻿using System.Collections;
 using LearningCSharp.DataStructures;
 using LearningCSharp.ControlStructures;
-using LearningCSharp.Cadastro;
+using LearningCSharp.POO;
 using System.IO.Pipelines;
+using LearningCSharp.Date;
+using LearningCSharp.Exceptions;
 
 //StackExample.Run();
 //QueueExample.Run();
@@ -19,7 +21,16 @@ using System.IO.Pipelines;
 //CursoCSharp.Arrays.Contains();
 //CursoCSharp.Arrays.Trim();
 //CursoCSharp.Arrays.StartWithEndWith();
-CursoCSharp.Arrays.Replace();
+//CursoCSharp.Arrays.Replace();
+//DateMethods.WorkingWithDates();
+//DateMethods.SubtractingDates();
+//DateMethods.AddDates();
+//DateMethods.weekDay();
+//DateMethods.dateOnly();
+//LearningCSharp.Exceptions.ExceptionClass.Run();
+TreatingExceptions.Run();
+
+
 
 class CursoCSharp
 {

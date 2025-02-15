@@ -1,4 +1,4 @@
-namespace LearningCSharp.Cadastro
+namespace LearningCSharp.POO
 {
 
     public class Notificacao
