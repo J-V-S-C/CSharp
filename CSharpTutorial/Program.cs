@@ -56,7 +56,7 @@ using LINQ;
 //WorkingWithLINQ.Any();
 //WorkingWithLINQ.Operations();
 //WorkingWithLINQ.DefaultEmpty();
-WorkingWithLINQ.SequenceEqual();
+//WorkingWithLINQ.SequenceEqual();
 class CursoCSharp
 {
     //Record é tipo uma classe, mas ele é imutável após a instancia, permite comparar objetos public static void AulaRecord()
