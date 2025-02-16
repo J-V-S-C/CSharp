@@ -5,6 +5,8 @@ using LearningCSharp.POO;
 using System.IO.Pipelines;
 using LearningCSharp.Date;
 using LearningCSharp.Exceptions;
+using archives;
+using LINQ;
 
 //StackExample.Run();
 //QueueExample.Run();
@@ -28,10 +30,33 @@ using LearningCSharp.Exceptions;
 //DateMethods.weekDay();
 //DateMethods.dateOnly();
 //LearningCSharp.Exceptions.ExceptionClass.Run();
-TreatingExceptions.Run();
-
-
-
+//TreatingExceptions.Run();
+//WorkingWithArchives.creatingArchive();
+//WorkingWithArchives.readingAllArchive();
+//WorkingWithArchives.readingArchive();
+//WorkingWithArchives.deletingArchives();
+//WorkingWithLINQ.WhereMethodString();
+//WorkingWithLINQ.WhereMethodNumber();
+//WorkingWithLINQ.Ordering();
+//WorkingWithLINQ.Take();
+//WorkingWithLINQ.Count();
+//WorkingWithLINQ.FirstANDFirstOrDefault();
+//WorkingWithLINQ.LastANDLastOrDefault();
+//WorkingWithLINQ.Select();
+//WorkingWithLINQ.SelectMany();
+//WorkingWithLINQ.Skip();
+//WorkingWithLINQ.SkipWhile();
+//WorkingWithLINQ.Distinct();
+//WorkingWithLINQ.Union();
+//WorkingWithLINQ.Intersect();
+//WorkingWithLINQ.Except();
+//WorkingWithLINQ.Aggregate();
+//WorkingWithLINQ.GroupBy();
+//WorkingWithLINQ.All();
+//WorkingWithLINQ.Any();
+//WorkingWithLINQ.Operations();
+//WorkingWithLINQ.DefaultEmpty();
+WorkingWithLINQ.SequenceEqual();
 class CursoCSharp
 {
     //Record é tipo uma classe, mas ele é imutável após a instancia, permite comparar objetos public static void AulaRecord()
